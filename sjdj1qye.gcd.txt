@@ -1,0 +1,15 @@
+﻿[core]
+	repositoryformatversion = 0
+	filemode = false
+	bare = false
+	logallrefupdates = true
+	symlinks = false
+	ignorecase = true
+	hideDotFiles = dotGitOnly
+[remote "origin"]
+	url = git@github.com:rohith2194/bharatblooddonors.git
+	fetch = +refs/heads/*:refs/remotes/origin/*
+[http]
+	proxy = http://172.30.0.14:3128/
+[https]
+	proxy = http://172.30.0.14:3128/

@@ -1,0 +1,19 @@
+﻿[core]
+	repositoryformatversion = 0
+	filemode = false
+	bare = false
+	logallrefupdates = true
+	symlinks = false
+	ignorecase = true
+	hideDotFiles = dotGitOnly
+
+
+
+[http]
+	proxy = http://172.30.0.14:3128/
+[https]
+	proxy = https://172.30.0.14:3128/
+[user]
+	name = rohith2194
+	email = p.rohith1995@gmail.com
+
